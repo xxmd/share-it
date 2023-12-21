@@ -1,0 +1,3 @@
+rootProject.name = "android-library-cli"
+include ':app'
+include ':mylibrary'
